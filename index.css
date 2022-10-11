@@ -1,0 +1,123 @@
+body {
+    background-color: 	rgb(89, 156, 23);
+  }
+h1 { 
+    color: black;
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+p { 
+    color: black;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+p1 {
+    color: black;
+    text-align:left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+}
+
+.image1{ /* Image boarding. */
+    width: 700px;
+    height: 288px;
+    background-color: black;
+    border: 5px solid gold;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image2{
+    background-color: black;
+    width: 735px;
+    height: 414px;
+    border: 5px solid gold;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image3{
+    background-color: black;
+    width: 500;
+    height: 294;
+    border: 5px solid gold;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image4{
+    background-color: black;
+    width: 1000px;
+    height: 750px;
+    border: 5px solid gold;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video {
+    width: 900px;
+    height: 450px;
+    background-color: black;
+    border: 5px solid gold;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    background-color: rgb(122, 119, 119);
+    border: 5px solid rgba(255, 217, 0, 0.582);
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.ulnav {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+  }
+
+table {
+    font-family: arial, sans-serif;
+    background-color: rgb(185, 182, 182);
+    border-collapse: collapse;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+td, th {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+iframe {
+    width:840px;
+    height:630px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
