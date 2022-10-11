@@ -1,7 +1,11 @@
 body {
     background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149009911.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
     background-color: #cccccc;
   }
+
 c { 
     color: black;
     text-align:center;
